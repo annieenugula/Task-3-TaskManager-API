@@ -26,3 +26,18 @@ This project allows users to create, view, update, and delete tasks through REST
 ---
 
 ## 📁 Project Structure
+taskmanager_api/
+│── accounts/
+│── tasks/
+│── taskmanager/
+│── manage.py
+
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/annieenugula/Task-3-TaskManager-API.git
+cd Task-3-TaskManager-API
